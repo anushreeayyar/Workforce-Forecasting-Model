@@ -1,0 +1,1066 @@
+employee_id,department,level,hire_date,exit_date,exit_reason,annual_salary,status
+1032,Engineering,IC2,2023-12-18,,,105122,Active
+1833,Operations,IC4,2022-01-05,2024-09-01,Involuntary,94901,Exited
+1414,Sales,IC3,2023-02-06,,,118221,Active
+2048,Data,IC1,2023-02-07,2024-09-01,Voluntary,97700,Exited
+1875,Customer Success,IC5,2025-08-19,,,111681,Active
+1623,Product,IC3,2020-08-21,2022-05-01,Voluntary,140006,Exited
+1583,Product,IC4,2024-12-12,,,150711,Active
+1582,Product,IC4,2024-08-31,,,170874,Active
+1087,Engineering,IC3,2025-02-02,,,133324,Active
+1412,Sales,IC3,2022-08-08,,,118536,Active
+1114,Engineering,IC2,2022-11-07,,,126749,Active
+2060,Data,IC3,2024-03-01,2024-06-01,Voluntary,142258,Exited
+1665,HR,IC3,2021-09-20,2024-04-01,Voluntary,95728,Exited
+1465,Sales,IC3,2022-10-30,2024-08-01,Retirement,120581,Exited
+1307,Engineering,IC3,2021-11-12,2022-02-01,Voluntary,135307,Exited
+2001,Data,IC2,2022-12-10,,,115697,Active
+1901,Customer Success,IC4,2024-06-17,,,87867,Active
+1558,Product,IC2,2021-07-17,,,105899,Active
+1992,Data,IC1,2025-04-10,,,96463,Active
+1627,HR,IC2,2025-02-22,,,82707,Active
+1801,Operations,IC2,2020-03-02,2022-12-01,Involuntary,62111,Exited
+1324,Engineering,IC3,2022-08-24,2024-08-01,Voluntary,132920,Exited
+1679,Finance,IC5,2024-08-23,,,162241,Active
+1508,Sales,IC3,2022-08-19,2023-06-01,Voluntary,108520,Exited
+1895,Customer Success,IC4,2024-11-18,,,105284,Active
+1446,Sales,IC2,2021-12-17,,,96115,Active
+1334,Sales,IC2,2022-12-21,,,87898,Active
+1261,Engineering,IC4,2024-02-05,2024-07-01,Voluntary,159797,Exited
+1654,HR,IC4,2023-08-18,,,114290,Active
+1705,Finance,IC3,2026-02-01,,,115089,Active
+1782,Operations,IC4,2024-06-12,,,100242,Active
+1179,Engineering,IC4,2025-02-02,,,175146,Active
+1850,Customer Success,IC3,2024-10-13,,,73058,Active
+1328,Engineering,IC1,2021-01-13,2022-03-01,Voluntary,97772,Exited
+1978,Data,IC2,2023-12-03,,,116308,Active
+1248,Engineering,IC3,2019-09-18,2022-03-01,Voluntary,141576,Exited
+1774,Operations,IC3,2021-10-16,,,84032,Active
+1591,Product,IC2,2024-01-29,,,111521,Active
+1732,Operations,IC2,2021-10-02,,,69433,Active
+1108,Engineering,IC3,2022-09-20,,,155669,Active
+1657,HR,IC1,2025-09-20,,,58035,Active
+2009,Data,IC5,2021-07-25,,,216138,Active
+1276,Engineering,IC3,2021-03-05,2023-04-01,Retirement,151478,Exited
+1742,Operations,IC4,2024-04-11,,,97186,Active
+1714,Finance,IC2,2020-12-16,2022-08-01,Voluntary,79093,Exited
+1360,Sales,IC3,2024-05-26,,,112821,Active
+1855,Customer Success,IC4,2023-04-03,,,90092,Active
+1382,Sales,IC1,2024-07-19,,,69848,Active
+1612,Product,IC3,2020-02-04,2022-04-01,Voluntary,144268,Exited
+1910,Customer Success,IC3,2023-06-08,,,86993,Active
+1089,Engineering,IC3,2023-09-11,,,135242,Active
+1888,Customer Success,IC2,2022-09-06,,,67583,Active
+1293,Engineering,Manager,2021-10-13,2024-06-01,Voluntary,185499,Exited
+1297,Engineering,IC2,2020-07-03,2022-06-01,Retirement,122307,Exited
+1526,Sales,IC4,2021-10-21,2022-08-01,Involuntary,133239,Exited
+1970,Data,IC2,2022-05-18,,,111349,Active
+1071,Engineering,IC2,2023-09-29,,,127514,Active
+1935,Customer Success,IC3,2021-07-05,2023-10-01,Voluntary,74118,Exited
+1366,Sales,IC4,2025-12-12,,,120070,Active
+1514,Sales,IC3,2020-11-12,2022-01-01,Voluntary,107692,Exited
+1175,Engineering,IC2,2024-12-20,,,109658,Active
+1322,Engineering,IC3,2020-09-28,2022-08-01,Voluntary,147845,Exited
+1761,Operations,IC3,2023-05-13,,,78711,Active
+1060,Engineering,IC4,2021-06-10,,,186909,Active
+2065,Data,IC1,2019-08-25,2022-04-01,Retirement,96832,Exited
+2034,Data,IC5,2022-02-12,,,215582,Active
+1351,Sales,IC5,2022-02-12,,,143556,Active
+1343,Sales,IC4,2024-11-21,,,120638,Active
+1024,Engineering,IC3,2023-09-15,,,135245,Active
+1653,HR,Manager,2022-08-03,,,131244,Active
+1843,Customer Success,IC4,2025-10-01,,,90537,Active
+1689,Finance,IC2,2022-03-26,,,77574,Active
+1214,Engineering,IC3,2023-10-26,,,139542,Active
+1287,Engineering,IC4,2020-09-17,2022-06-01,Involuntary,176986,Exited
+1337,Sales,IC2,2026-01-08,,,81698,Active
+1662,HR,IC4,2021-06-17,2023-01-01,Involuntary,123865,Exited
+1483,Sales,IC4,2024-06-19,2024-10-01,Involuntary,143818,Exited
+1536,Sales,IC2,2022-12-31,2024-07-01,Retirement,91959,Exited
+1762,Operations,IC5,2023-07-14,,,131857,Active
+1320,Engineering,IC3,2019-10-21,2022-02-01,Involuntary,146676,Exited
+1600,Product,IC3,2026-02-08,,,147209,Active
+1784,Operations,IC3,2022-02-21,,,92628,Active
+1274,Engineering,IC4,2021-07-28,2022-04-01,Retirement,156711,Exited
+1345,Sales,IC1,2021-09-29,,,65452,Active
+1050,Engineering,IC1,2023-02-04,,,94229,Active
+1713,Finance,IC1,2022-01-23,2023-06-01,Involuntary,67017,Exited
+1290,Engineering,IC3,2020-05-04,2022-04-01,Voluntary,134370,Exited
+1615,Product,IC1,2022-11-14,2024-11-01,Voluntary,95849,Exited
+1077,Engineering,IC4,2021-10-16,,,174168,Active
+1011,Engineering,IC4,2022-09-19,,,175436,Active
+1529,Sales,IC3,2022-04-05,2023-11-01,Voluntary,109414,Exited
+1238,Engineering,IC3,2023-01-15,2023-10-01,Voluntary,141704,Exited
+1584,Product,IC3,2025-05-15,,,129126,Active
+1791,Operations,IC3,2022-12-02,,,82533,Active
+1478,Sales,IC4,2019-05-07,2022-01-01,Retirement,140821,Exited
+1356,Sales,IC1,2024-04-27,,,78167,Active
+1543,Sales,IC3,2022-09-14,2024-02-01,Voluntary,109961,Exited
+1291,Engineering,IC4,2019-09-03,2022-01-01,Voluntary,173876,Exited
+1391,Sales,IC3,2022-07-03,,,99121,Active
+1097,Engineering,IC4,2022-07-21,,,162413,Active
+1448,Sales,IC3,2025-04-19,,,102391,Active
+1431,Sales,Manager,2022-10-11,,,149064,Active
+1539,Sales,IC2,2020-07-13,2022-05-01,Retirement,95903,Exited
+1110,Engineering,IC4,2025-01-30,,,161459,Active
+1142,Engineering,IC5,2024-03-05,,,199463,Active
+1232,Engineering,IC2,2022-08-30,2023-09-01,Retirement,119389,Exited
+1169,Engineering,IC4,2022-04-22,,,170670,Active
+1216,Engineering,IC3,2025-06-09,,,136765,Active
+1410,Sales,IC1,2024-05-04,,,65496,Active
+1680,Finance,IC4,2024-06-06,,,133216,Active
+1479,Sales,IC1,2021-08-27,2022-05-01,Voluntary,75124,Exited
+1634,HR,IC3,2025-09-05,,,95942,Active
+1804,Operations,IC3,2020-01-18,2022-10-01,Voluntary,81065,Exited
+1667,HR,IC3,2024-07-03,2024-12-01,Retirement,90219,Exited
+1491,Sales,IC4,2022-12-25,2023-08-01,Voluntary,133442,Exited
+1137,Engineering,IC1,2025-04-20,,,87633,Active
+1266,Engineering,Director,2022-01-11,2024-08-01,Retirement,253414,Exited
+1102,Engineering,IC1,2023-04-11,,,94837,Active
+1505,Sales,IC4,2021-06-29,2022-11-01,Retirement,144303,Exited
+1974,Data,IC4,2026-02-06,,,179655,Active
+1281,Engineering,IC3,2022-03-26,2024-09-01,Voluntary,134048,Exited
+1962,Customer Success,IC4,2020-11-17,2023-10-01,Retirement,96674,Exited
+1079,Engineering,IC1,2021-04-21,,,92280,Active
+1140,Engineering,IC4,2026-01-28,,,174738,Active
+1480,Sales,IC4,2023-04-05,2024-12-01,Involuntary,139025,Exited
+2062,Data,IC2,2020-09-16,2022-12-01,Retirement,120374,Exited
+1084,Engineering,IC4,2024-10-28,,,170704,Active
+1553,Product,IC3,2025-12-06,,,121826,Active
+1993,Data,IC3,2026-01-13,,,130011,Active
+1632,HR,IC3,2025-01-27,,,86906,Active
+1040,Engineering,IC3,2021-04-21,,,148111,Active
+1031,Engineering,IC2,2022-11-20,,,121206,Active
+1750,Operations,IC3,2023-09-09,,,80988,Active
+1055,Engineering,Manager,2025-10-19,,,190854,Active
+1576,Product,IC4,2022-03-28,,,161233,Active
+1995,Data,IC4,2024-02-20,,,181448,Active
+1523,Sales,IC4,2020-06-07,2022-06-01,Retirement,121973,Exited
+1925,Customer Success,Manager,2020-04-30,2022-02-01,Involuntary,106676,Exited
+1209,Engineering,IC3,2025-02-02,,,152679,Active
+1004,Engineering,IC4,2025-02-20,,,161084,Active
+1731,Operations,IC5,2025-01-13,,,129411,Active
+1851,Customer Success,IC4,2022-09-10,,,96474,Active
+1389,Sales,IC3,2022-07-14,,,103314,Active
+1716,Finance,IC3,2020-12-20,2023-06-01,Involuntary,115115,Exited
+1211,Engineering,IC1,2022-04-04,,,91753,Active
+1810,Operations,IC5,2021-07-05,2023-11-01,Voluntary,114743,Exited
+1059,Engineering,IC3,2024-08-14,,,148275,Active
+1064,Engineering,IC3,2023-12-02,,,149163,Active
+1618,Product,IC3,2021-11-24,2023-02-01,Voluntary,123414,Exited
+1449,Sales,IC3,2023-11-20,,,102703,Active
+1101,Engineering,IC3,2025-03-21,,,131491,Active
+1487,Sales,IC5,2021-01-02,2023-11-01,Voluntary,156351,Exited
+1313,Engineering,IC5,2021-04-06,2024-03-01,Voluntary,225832,Exited
+1199,Engineering,IC2,2025-09-28,,,122641,Active
+1200,Engineering,Director,2024-10-16,,,294863,Active
+2040,Data,IC4,2022-11-30,2024-04-01,Voluntary,161523,Exited
+1219,Engineering,IC2,2024-03-30,,,115642,Active
+1159,Engineering,IC3,2021-09-28,,,137913,Active
+1498,Sales,IC2,2022-05-05,2024-05-01,Voluntary,92239,Exited
+2026,Data,IC2,2023-10-14,,,113143,Active
+1597,Product,IC3,2025-05-22,,,125539,Active
+1067,Engineering,IC3,2022-12-05,,,148356,Active
+1994,Data,Director,2024-05-20,,,278067,Active
+1068,Engineering,Manager,2021-04-28,,,196377,Active
+1463,Sales,IC1,2021-05-31,2024-04-01,Retirement,75654,Exited
+1013,Engineering,Manager,2022-10-17,,,186861,Active
+1963,Customer Success,Director,2020-10-24,2022-09-01,Voluntary,137712,Exited
+1245,Engineering,IC2,2020-01-20,2022-05-01,Voluntary,108439,Exited
+1899,Customer Success,IC2,2024-01-19,,,65458,Active
+1768,Operations,IC3,2025-03-16,,,83339,Active
+1590,Product,IC1,2023-10-28,,,82329,Active
+1690,Finance,IC4,2024-10-21,,,135146,Active
+1300,Engineering,Director,2019-04-23,2022-03-01,Voluntary,262084,Exited
+1476,Sales,IC4,2020-03-31,2022-08-01,Voluntary,144950,Exited
+1452,Sales,IC1,2023-05-21,,,69247,Active
+1914,Customer Success,IC2,2024-07-23,,,64157,Active
+1185,Engineering,IC2,2024-11-29,,,116831,Active
+1709,Finance,IC3,2023-01-07,2023-04-01,Involuntary,108961,Exited
+1666,HR,IC5,2021-05-25,2023-09-01,Retirement,142336,Exited
+1751,Operations,IC5,2021-11-30,,,116924,Active
+1257,Engineering,IC4,2021-08-05,2022-08-01,Voluntary,172626,Exited
+1295,Engineering,IC2,2023-02-15,2024-12-01,Voluntary,108028,Exited
+1003,Engineering,IC5,2023-03-31,,,225886,Active
+1466,Sales,IC3,2021-07-23,2022-11-01,Involuntary,107257,Exited
+1544,Sales,IC3,2023-02-02,2024-01-01,Involuntary,104709,Exited
+1534,Sales,Director,2019-05-01,2022-04-01,Voluntary,210139,Exited
+1193,Engineering,IC3,2021-12-17,,,145198,Active
+1299,Engineering,Manager,2022-06-22,2023-02-01,Retirement,184821,Exited
+1778,Operations,IC5,2023-02-15,,,113638,Active
+1815,Operations,IC2,2020-08-04,2023-06-01,Voluntary,65920,Exited
+1329,Sales,IC1,2021-07-04,,,76118,Active
+1363,Sales,IC1,2025-04-04,,,67809,Active
+1877,Customer Success,IC2,2023-06-09,,,61978,Active
+1869,Customer Success,IC1,2023-08-17,,,56209,Active
+1954,Customer Success,IC2,2022-01-27,2023-07-01,Retirement,62650,Exited
+1355,Sales,IC3,2023-10-16,,,99924,Active
+1571,Product,IC2,2022-08-18,,,106517,Active
+1663,HR,IC2,2019-01-23,2022-01-01,Voluntary,77775,Exited
+1825,Operations,IC4,2023-12-11,2024-04-01,Voluntary,94680,Exited
+2057,Data,IC2,2021-08-23,2022-07-01,Voluntary,107676,Exited
+1335,Sales,IC5,2022-07-28,,,160311,Active
+1881,Customer Success,IC3,2023-12-22,,,78941,Active
+1495,Sales,IC4,2020-01-16,2022-12-01,Voluntary,137853,Exited
+1650,HR,IC4,2022-11-16,,,107494,Active
+1859,Customer Success,IC4,2022-09-15,,,96826,Active
+1939,Customer Success,IC4,2021-11-15,2024-01-01,Retirement,88905,Exited
+1378,Sales,IC4,2026-01-23,,,134690,Active
+1107,Engineering,IC4,2025-07-16,,,157204,Active
+1585,Product,Manager,2025-08-21,,,184910,Active
+1056,Engineering,IC4,2023-09-15,,,163565,Active
+1121,Engineering,IC2,2024-03-16,,,108095,Active
+2007,Data,IC2,2023-01-11,,,113217,Active
+1026,Engineering,IC4,2022-01-27,,,164605,Active
+1073,Engineering,IC4,2022-10-06,,,159112,Active
+1905,Customer Success,Manager,2021-11-21,,,113471,Active
+1045,Engineering,IC4,2021-12-22,,,170364,Active
+1310,Engineering,IC3,2023-05-09,2024-08-01,Voluntary,132006,Exited
+1790,Operations,IC3,2021-09-21,,,77835,Active
+1332,Sales,IC3,2022-04-19,,,114625,Active
+1352,Sales,IC1,2024-08-17,,,70742,Active
+1368,Sales,IC3,2022-12-25,,,118630,Active
+1812,Operations,IC2,2021-12-08,2022-10-01,Involuntary,67707,Exited
+1991,Data,IC1,2021-07-12,,,83535,Active
+1309,Engineering,IC4,2022-03-11,2023-12-01,Voluntary,175581,Exited
+1441,Sales,IC3,2025-10-16,,,105890,Active
+1496,Sales,IC2,2022-06-13,2023-06-01,Involuntary,92981,Exited
+1779,Operations,IC2,2022-03-02,,,68004,Active
+1599,Product,IC1,2025-06-09,,,83696,Active
+1926,Customer Success,Manager,2020-11-25,2023-04-01,Voluntary,121327,Exited
+1786,Operations,IC2,2022-07-09,,,67368,Active
+1210,Engineering,IC2,2023-08-31,,,126504,Active
+1876,Customer Success,IC1,2021-09-30,,,51376,Active
+2035,Data,IC1,2025-05-31,,,98164,Active
+1721,Operations,IC3,2023-10-29,,,82781,Active
+1524,Sales,IC4,2020-10-13,2022-12-01,Voluntary,132474,Exited
+1371,Sales,IC2,2022-01-17,,,93089,Active
+1061,Engineering,IC3,2025-10-30,,,153219,Active
+1437,Sales,IC2,2023-08-07,,,96307,Active
+1405,Sales,IC1,2024-12-14,,,74611,Active
+1093,Engineering,IC3,2021-05-24,,,137345,Active
+1696,Finance,IC2,2021-10-19,,,78404,Active
+1244,Engineering,Director,2021-12-20,2023-07-01,Retirement,301438,Exited
+1531,Sales,IC4,2022-12-11,2024-08-01,Involuntary,135817,Exited
+1719,Operations,IC3,2025-07-27,,,77690,Active
+1548,Product,IC4,2023-10-24,,,158604,Active
+1616,Product,IC3,2021-05-08,2022-10-01,Retirement,125056,Exited
+1836,Operations,IC3,2021-08-29,2024-04-01,Involuntary,76609,Exited
+1656,HR,IC4,2021-12-24,,,118579,Active
+1443,Sales,IC5,2025-10-17,,,155365,Active
+1372,Sales,IC3,2022-07-29,,,100400,Active
+2031,Data,IC2,2024-06-18,,,121688,Active
+1985,Data,IC3,2021-06-12,,,148589,Active
+1964,Customer Success,IC3,2023-03-16,2024-06-01,Voluntary,73876,Exited
+1550,Product,IC5,2024-10-11,,,206441,Active
+1823,Operations,IC4,2022-01-28,2023-02-01,Voluntary,102263,Exited
+1183,Engineering,IC1,2021-10-30,,,95424,Active
+1894,Customer Success,IC4,2023-09-09,,,97176,Active
+1278,Engineering,IC3,2022-10-04,2023-07-01,Retirement,147962,Exited
+1111,Engineering,IC1,2024-02-03,,,87530,Active
+1353,Sales,IC2,2024-03-18,,,85916,Active
+1912,Customer Success,IC3,2022-08-25,,,77313,Active
+1651,HR,IC1,2025-12-26,,,55677,Active
+1424,Sales,IC3,2022-02-04,,,116564,Active
+1306,Engineering,IC3,2020-08-01,2022-06-01,Voluntary,132870,Exited
+1450,Sales,IC5,2021-10-24,,,157600,Active
+1262,Engineering,IC2,2022-08-08,2024-09-01,Involuntary,113991,Exited
+1984,Data,IC2,2025-08-01,,,111223,Active
+1502,Sales,Manager,2021-11-17,2023-05-01,Voluntary,159394,Exited
+1934,Customer Success,IC4,2022-05-06,2023-10-01,Voluntary,93039,Exited
+1138,Engineering,IC3,2023-12-28,,,145974,Active
+1319,Engineering,IC3,2021-09-26,2023-06-01,Involuntary,136179,Exited
+1847,Customer Success,IC1,2023-10-09,,,52712,Active
+1308,Engineering,IC5,2023-05-26,2024-10-01,Voluntary,217357,Exited
+1614,Product,IC3,2022-01-07,2023-04-01,Retirement,129838,Exited
+1594,Product,IC4,2022-04-14,,,151684,Active
+1030,Engineering,IC2,2022-08-17,,,127228,Active
+1166,Engineering,IC2,2023-06-25,,,119200,Active
+1249,Engineering,IC4,2022-03-07,2022-10-01,Involuntary,179007,Exited
+1568,Product,IC1,2021-05-16,,,87854,Active
+1986,Data,IC1,2025-04-03,,,93391,Active
+1500,Sales,IC5,2022-04-06,2024-12-01,Voluntary,153545,Exited
+1712,Finance,IC3,2020-07-16,2023-03-01,Voluntary,111732,Exited
+1622,Product,IC4,2024-05-15,2024-09-01,Voluntary,158906,Exited
+1540,Sales,IC4,2022-10-31,2023-01-01,Voluntary,133237,Exited
+1066,Engineering,IC1,2023-08-24,,,89482,Active
+1395,Sales,IC2,2022-05-22,,,95598,Active
+1915,Customer Success,Manager,2022-05-29,,,115623,Active
+1255,Engineering,IC1,2024-04-25,2024-08-01,Voluntary,103532,Exited
+1820,Operations,IC2,2020-10-03,2023-06-01,Involuntary,72893,Exited
+1579,Product,IC2,2023-11-05,,,98737,Active
+1222,Engineering,IC1,2023-09-19,,,90541,Active
+1236,Engineering,Manager,2021-05-04,2024-05-01,Voluntary,215540,Exited
+1537,Sales,IC4,2021-03-07,2022-05-01,Involuntary,137018,Exited
+1883,Customer Success,IC5,2022-07-02,,,112379,Active
+1854,Customer Success,IC1,2025-05-21,,,53425,Active
+1602,Product,IC2,2023-08-16,,,112631,Active
+1997,Data,Manager,2024-10-26,,,187996,Active
+1250,Engineering,IC1,2020-11-25,2022-02-01,Retirement,93766,Exited
+1592,Product,IC3,2025-04-18,,,141994,Active
+1430,Sales,IC1,2022-10-20,,,77078,Active
+1072,Engineering,IC3,2024-01-25,,,132864,Active
+1095,Engineering,IC2,2022-08-17,,,123630,Active
+1034,Engineering,IC3,2024-12-15,,,158577,Active
+1661,HR,IC3,2020-11-02,2022-10-01,Voluntary,92571,Exited
+1260,Engineering,IC3,2020-06-11,2022-02-01,Voluntary,151610,Exited
+1205,Engineering,IC2,2023-10-13,,,104931,Active
+1897,Customer Success,IC2,2021-10-14,,,58244,Active
+1637,HR,IC2,2023-01-13,,,69799,Active
+1818,Operations,Manager,2021-03-11,2023-09-01,Voluntary,107476,Exited
+1078,Engineering,IC5,2024-12-25,,,213558,Active
+1085,Engineering,IC2,2025-03-21,,,109911,Active
+1953,Customer Success,IC2,2020-02-26,2022-07-01,Voluntary,61849,Exited
+1083,Engineering,IC3,2023-10-05,,,151760,Active
+1433,Sales,IC3,2025-01-19,,,116417,Active
+1454,Sales,IC2,2022-07-25,,,89416,Active
+1494,Sales,IC2,2020-08-06,2023-02-01,Involuntary,87941,Exited
+1882,Customer Success,IC3,2025-12-10,,,78241,Active
+1381,Sales,IC3,2025-03-07,,,113881,Active
+1698,Finance,Manager,2021-12-08,,,150419,Active
+1347,Sales,IC2,2021-08-10,,,79784,Active
+1006,Engineering,IC4,2021-11-23,,,185558,Active
+1311,Engineering,IC5,2019-09-01,2022-04-01,Voluntary,212135,Exited
+1542,Sales,IC4,2023-05-06,2024-04-01,Involuntary,141339,Exited
+1105,Engineering,IC1,2023-04-19,,,95846,Active
+1098,Engineering,IC1,2022-10-09,,,98706,Active
+1333,Sales,IC3,2024-11-18,,,117076,Active
+1459,Sales,IC4,2024-09-19,,,122706,Active
+1315,Engineering,IC4,2022-01-10,2023-11-01,Voluntary,169543,Exited
+1517,Sales,IC2,2019-07-20,2022-02-01,Voluntary,95234,Exited
+1959,Customer Success,IC2,2019-09-27,2022-09-01,Involuntary,61592,Exited
+1282,Engineering,IC2,2019-11-18,2022-11-01,Voluntary,118278,Exited
+1267,Engineering,IC4,2022-09-05,2023-09-01,Voluntary,167420,Exited
+1519,Sales,IC2,2022-04-10,2023-12-01,Voluntary,95146,Exited
+1595,Product,IC2,2021-04-21,,,118790,Active
+1865,Customer Success,IC2,2025-02-16,,,59710,Active
+1561,Product,IC3,2025-03-28,,,135343,Active
+1967,Customer Success,IC2,2023-01-16,2023-04-01,Voluntary,64822,Exited
+1577,Product,IC3,2024-08-14,,,127020,Active
+1119,Engineering,IC3,2021-07-16,,,157785,Active
+1966,Customer Success,IC3,2021-05-24,2022-02-01,Voluntary,78579,Exited
+1251,Engineering,IC3,2020-08-23,2023-04-01,Voluntary,157188,Exited
+1426,Sales,IC3,2024-08-07,,,106015,Active
+1286,Engineering,IC2,2019-05-04,2022-03-01,Voluntary,112803,Exited
+1856,Customer Success,IC5,2022-04-25,,,126374,Active
+1010,Engineering,IC4,2024-11-08,,,161070,Active
+2000,Data,IC3,2025-01-18,,,127189,Active
+1197,Engineering,IC3,2021-05-29,,,154433,Active
+1669,Finance,IC3,2023-09-27,,,103060,Active
+1082,Engineering,IC2,2024-09-06,,,113305,Active
+1468,Sales,IC3,2019-08-13,2022-04-01,Voluntary,108756,Exited
+1694,Finance,IC1,2025-10-26,,,70087,Active
+1685,Finance,IC4,2024-11-04,,,134515,Active
+1240,Engineering,IC5,2021-08-08,2022-01-01,Voluntary,193669,Exited
+1362,Sales,IC2,2024-04-13,,,81316,Active
+1212,Engineering,IC3,2023-02-11,,,145177,Active
+1793,Operations,IC1,2024-05-31,,,56430,Active
+1596,Product,Director,2025-07-20,,,269542,Active
+1533,Sales,IC5,2022-08-09,2023-07-01,Voluntary,170575,Exited
+1228,Engineering,Manager,2022-11-23,2024-03-01,Voluntary,192792,Exited
+1947,Customer Success,IC4,2020-01-08,2022-12-01,Retirement,92283,Exited
+1636,HR,IC2,2026-01-29,,,82467,Active
+1425,Sales,IC3,2023-03-21,,,111743,Active
+1980,Data,IC2,2021-05-11,,,102142,Active
+1178,Engineering,IC3,2021-05-19,,,138363,Active
+2030,Data,IC3,2024-04-23,,,127867,Active
+1486,Sales,IC1,2022-12-12,2024-07-01,Retirement,70111,Exited
+1451,Sales,IC4,2024-01-18,,,137517,Active
+1546,Product,IC1,2024-06-08,,,79224,Active
+1535,Sales,IC2,2020-04-18,2022-01-01,Retirement,90513,Exited
+1809,Operations,IC2,2023-11-19,2024-07-01,Voluntary,72202,Exited
+1458,Sales,IC3,2025-09-06,,,112654,Active
+1008,Engineering,IC2,2025-02-23,,,117388,Active
+2018,Data,IC3,2022-06-09,,,144830,Active
+1156,Engineering,IC5,2024-09-15,,,198815,Active
+1358,Sales,IC4,2025-05-10,,,137261,Active
+1598,Product,IC1,2022-10-11,,,88530,Active
+1224,Engineering,IC3,2023-12-26,,,159404,Active
+1330,Sales,IC1,2024-03-19,,,74810,Active
+1885,Customer Success,IC4,2021-07-07,,,97278,Active
+1492,Sales,IC3,2021-06-08,2023-12-01,Voluntary,109189,Exited
+1860,Customer Success,IC3,2022-10-27,,,87841,Active
+1399,Sales,IC1,2025-10-14,,,70793,Active
+1744,Operations,IC2,2022-04-18,,,63796,Active
+1921,Customer Success,IC2,2023-12-03,,,61286,Active
+1559,Product,IC1,2022-02-17,,,94794,Active
+1717,Operations,IC3,2024-09-04,,,93316,Active
+2029,Data,IC1,2023-12-31,,,83819,Active
+1629,HR,Manager,2021-10-08,,,122443,Active
+1567,Product,IC5,2022-03-23,,,210523,Active
+1586,Product,IC4,2021-03-31,,,145800,Active
+1645,HR,IC5,2023-10-04,,,129557,Active
+1781,Operations,IC2,2023-02-26,,,63324,Active
+1737,Operations,IC3,2024-02-15,,,91145,Active
+1164,Engineering,IC5,2024-04-27,,,198338,Active
+1229,Engineering,IC1,2020-02-14,2022-10-01,Voluntary,89722,Exited
+1440,Sales,IC1,2022-09-09,,,69898,Active
+2055,Data,IC2,2020-08-08,2022-04-01,Voluntary,111326,Exited
+1213,Engineering,Manager,2025-10-13,,,205010,Active
+1846,Customer Success,IC3,2021-05-29,,,84823,Active
+1080,Engineering,IC5,2025-04-29,,,227099,Active
+1149,Engineering,IC1,2022-05-15,,,88239,Active
+1303,Engineering,IC2,2020-09-12,2022-07-01,Involuntary,110222,Exited
+1421,Sales,IC1,2023-01-14,,,69889,Active
+1406,Sales,IC1,2023-10-22,,,72984,Active
+2011,Data,IC3,2023-11-04,,,144655,Active
+2019,Data,IC3,2021-06-27,,,145450,Active
+1044,Engineering,IC3,2025-05-20,,,130836,Active
+1902,Customer Success,IC2,2021-06-13,,,62240,Active
+1134,Engineering,IC3,2023-04-28,,,152520,Active
+1844,Customer Success,IC4,2023-07-11,,,88542,Active
+1312,Engineering,IC3,2023-04-16,2023-09-01,Involuntary,136441,Exited
+1409,Sales,IC3,2023-01-08,,,111090,Active
+1528,Sales,IC5,2022-07-02,2024-05-01,Retirement,166203,Exited
+1811,Operations,IC3,2023-10-29,2024-04-01,Retirement,81641,Exited
+1530,Sales,Manager,2020-07-03,2022-05-01,Voluntary,167635,Exited
+1918,Customer Success,IC3,2023-03-12,,,86388,Active
+1831,Operations,IC2,2022-07-11,2023-10-01,Involuntary,73087,Exited
+1001,Engineering,IC4,2025-08-11,,,180268,Active
+1361,Sales,IC2,2025-01-16,,,94560,Active
+1383,Sales,IC4,2022-11-20,,,143894,Active
+1317,Engineering,IC2,2021-01-11,2022-08-01,Voluntary,108731,Exited
+1942,Customer Success,IC2,2021-07-25,2022-11-01,Voluntary,58583,Exited
+1605,Product,IC3,2020-03-12,2023-03-01,Retirement,125793,Exited
+1429,Sales,IC3,2026-02-11,,,102643,Active
+1588,Product,IC2,2023-02-05,,,101597,Active
+2028,Data,IC2,2024-12-05,,,118081,Active
+1789,Operations,IC2,2024-02-07,,,68987,Active
+1173,Engineering,IC2,2024-02-05,,,106242,Active
+1126,Engineering,IC4,2021-09-14,,,184713,Active
+1658,HR,IC1,2023-05-01,,,66832,Active
+1520,Sales,IC3,2023-04-18,2024-02-01,Voluntary,120196,Exited
+1799,Operations,IC3,2022-08-10,,,93047,Active
+1996,Data,IC2,2025-09-23,,,119560,Active
+1091,Engineering,IC4,2022-03-03,,,167916,Active
+2033,Data,IC3,2022-09-23,,,144282,Active
+1182,Engineering,Director,2025-10-25,,,272544,Active
+1364,Sales,IC3,2021-07-16,,,105244,Active
+1275,Engineering,IC4,2020-12-03,2022-07-01,Voluntary,159836,Exited
+1787,Operations,IC4,2024-05-16,,,111402,Active
+1987,Data,IC4,2023-08-10,,,175534,Active
+1070,Engineering,IC2,2021-05-08,,,104883,Active
+1292,Engineering,IC4,2021-08-22,2024-07-01,Voluntary,183239,Exited
+1132,Engineering,IC2,2025-11-08,,,113059,Active
+1301,Engineering,IC2,2022-06-15,2023-09-01,Voluntary,111561,Exited
+1527,Sales,IC3,2021-10-28,2023-10-01,Voluntary,105405,Exited
+1327,Engineering,IC2,2023-08-30,2024-07-01,Retirement,127532,Exited
+1145,Engineering,IC2,2021-11-08,,,111009,Active
+1573,Product,IC2,2023-01-12,,,115336,Active
+1644,HR,IC3,2023-07-17,,,89548,Active
+1707,Finance,IC4,2020-05-23,2022-01-01,Voluntary,132879,Exited
+1136,Engineering,IC3,2022-11-28,,,131243,Active
+1507,Sales,IC3,2020-10-13,2023-05-01,Voluntary,120988,Exited
+1740,Operations,IC3,2024-05-01,,,90471,Active
+1165,Engineering,IC1,2023-06-06,,,96926,Active
+1029,Engineering,IC3,2021-07-11,,,149017,Active
+1621,Product,IC2,2020-11-02,2022-06-01,Voluntary,106091,Exited
+1194,Engineering,IC4,2024-10-25,,,157858,Active
+1482,Sales,IC1,2021-10-06,2024-06-01,Retirement,70177,Exited
+1704,Finance,IC3,2023-08-08,,,96961,Active
+1434,Sales,IC2,2025-03-30,,,91117,Active
+1606,Product,IC1,2021-01-29,2023-05-01,Involuntary,81170,Exited
+1170,Engineering,IC3,2024-11-16,,,151510,Active
+1555,Product,IC2,2021-05-03,,,110902,Active
+1141,Engineering,IC2,2023-01-04,,,104575,Active
+1174,Engineering,IC3,2025-12-07,,,147776,Active
+1007,Engineering,IC1,2023-03-16,,,90235,Active
+1708,Finance,IC5,2020-07-09,2022-03-01,Involuntary,157525,Exited
+1549,Product,Manager,2022-12-11,,,198726,Active
+1718,Operations,Director,2021-04-28,,,163407,Active
+1569,Product,IC4,2022-10-20,,,153209,Active
+1074,Engineering,IC2,2023-10-10,,,115132,Active
+1755,Operations,Director,2022-08-16,,,172010,Active
+1515,Sales,IC1,2022-09-15,2023-01-01,Involuntary,64964,Exited
+1239,Engineering,IC2,2021-04-30,2023-11-01,Voluntary,125033,Exited
+1146,Engineering,Manager,2021-07-22,,,204309,Active
+1874,Customer Success,IC5,2025-10-01,,,112677,Active
+1235,Engineering,IC4,2022-02-03,2023-05-01,Involuntary,187644,Exited
+1221,Engineering,IC3,2025-09-22,,,135449,Active
+1215,Engineering,IC5,2024-11-28,,,200904,Active
+1729,Operations,IC4,2021-11-06,,,104457,Active
+1133,Engineering,IC1,2021-08-17,,,96200,Active
+2063,Data,IC1,2022-07-18,2023-06-01,Voluntary,89905,Exited
+1735,Operations,IC3,2024-09-08,,,88617,Active
+1724,Operations,IC3,2022-01-04,,,87243,Active
+1423,Sales,IC3,2023-04-01,,,117958,Active
+1186,Engineering,IC3,2023-04-19,,,154332,Active
+1042,Engineering,IC1,2025-10-24,,,95795,Active
+1676,Finance,IC4,2025-10-01,,,113600,Active
+1109,Engineering,IC2,2023-08-14,,,116504,Active
+1759,Operations,IC4,2025-02-18,,,109303,Active
+1057,Engineering,IC4,2025-04-07,,,189713,Active
+1722,Operations,IC4,2022-03-13,,,106258,Active
+2004,Data,IC3,2025-02-11,,,134911,Active
+1802,Operations,IC4,2022-10-26,2024-05-01,Voluntary,109994,Exited
+1484,Sales,Manager,2020-07-10,2023-04-01,Retirement,154695,Exited
+1469,Sales,Manager,2022-03-10,2022-09-01,Voluntary,144774,Exited
+1951,Customer Success,IC2,2021-12-14,2024-02-01,Voluntary,58721,Exited
+1436,Sales,Director,2022-04-08,,,207077,Active
+1025,Engineering,IC4,2022-12-22,,,166983,Active
+1683,Finance,IC3,2024-08-20,,,106120,Active
+1532,Sales,IC4,2022-12-07,2024-02-01,Retirement,124211,Exited
+1906,Customer Success,IC3,2021-12-08,,,84934,Active
+1968,Customer Success,IC2,2023-05-27,2023-12-01,Voluntary,69560,Exited
+1766,Operations,IC2,2021-03-24,,,63003,Active
+2022,Data,IC4,2023-01-19,,,180528,Active
+2036,Data,IC3,2021-07-04,,,139053,Active
+1339,Sales,IC4,2021-07-08,,,135192,Active
+1052,Engineering,IC1,2026-02-16,,,90978,Active
+1384,Sales,IC3,2021-09-24,,,120644,Active
+1631,HR,IC4,2021-04-30,,,112238,Active
+2014,Data,IC2,2022-05-22,,,122916,Active
+1826,Operations,IC2,2022-08-14,2024-10-01,Voluntary,64174,Exited
+2020,Data,IC3,2022-01-11,,,129593,Active
+1265,Engineering,IC3,2020-06-06,2022-01-01,Voluntary,130770,Exited
+2021,Data,IC1,2025-05-18,,,92322,Active
+1754,Operations,IC3,2024-11-20,,,89015,Active
+1445,Sales,Director,2023-12-14,,,210896,Active
+1396,Sales,IC1,2023-10-16,,,73174,Active
+1177,Engineering,IC1,2021-11-08,,,99911,Active
+1019,Engineering,IC4,2025-02-02,,,161127,Active
+1552,Product,IC2,2025-11-17,,,109405,Active
+1630,HR,IC1,2023-02-08,,,60559,Active
+1062,Engineering,IC4,2023-02-06,,,159387,Active
+1273,Engineering,IC2,2021-04-03,2023-09-01,Voluntary,107597,Exited
+2043,Data,IC2,2020-07-13,2023-05-01,Voluntary,115541,Exited
+1279,Engineering,IC1,2021-07-10,2024-06-01,Voluntary,91125,Exited
+1961,Customer Success,IC1,2020-09-29,2023-06-01,Retirement,52474,Exited
+1369,Sales,IC3,2023-02-28,,,110688,Active
+1988,Data,IC3,2022-10-19,,,148554,Active
+1635,HR,Manager,2022-07-10,,,135756,Active
+1603,Product,IC3,2022-10-22,,,142579,Active
+1674,Finance,Manager,2023-07-01,,,154255,Active
+1693,Finance,IC2,2023-06-20,,,90566,Active
+1457,Sales,IC4,2022-09-29,,,126732,Active
+1394,Sales,IC3,2024-06-10,,,103807,Active
+1701,Finance,IC4,2022-05-12,,,118532,Active
+1741,Operations,Manager,2025-12-18,,,117359,Active
+1376,Sales,IC3,2022-02-24,,,110383,Active
+1413,Sales,IC3,2024-03-07,,,102055,Active
+1075,Engineering,Manager,2026-01-25,,,199585,Active
+1972,Data,IC4,2023-01-13,,,159701,Active
+1501,Sales,Manager,2020-07-18,2022-06-01,Retirement,151609,Exited
+1619,Product,IC3,2021-12-19,2023-07-01,Voluntary,143986,Exited
+1115,Engineering,IC4,2022-09-25,,,185766,Active
+1418,Sales,IC2,2023-06-08,,,87753,Active
+1090,Engineering,IC2,2022-11-19,,,113657,Active
+2015,Data,IC3,2024-09-08,,,128454,Active
+1957,Customer Success,IC1,2024-08-19,2024-12-01,Retirement,48581,Exited
+1671,Finance,IC2,2023-07-30,,,87577,Active
+1853,Customer Success,IC1,2023-02-27,,,56799,Active
+1012,Engineering,IC5,2025-03-20,,,205714,Active
+1397,Sales,IC3,2025-08-19,,,118356,Active
+1589,Product,IC2,2021-06-09,,,102176,Active
+1043,Engineering,IC3,2023-02-26,,,143064,Active
+1168,Engineering,IC1,2025-05-31,,,90000,Active
+1417,Sales,IC4,2025-05-26,,,137144,Active
+1835,Operations,Manager,2022-01-04,2024-02-01,Voluntary,121616,Exited
+1427,Sales,IC1,2023-01-03,,,69641,Active
+1545,Product,IC3,2023-09-16,,,123473,Active
+1973,Data,IC1,2023-11-23,,,87138,Active
+2046,Data,Manager,2020-06-28,2023-06-01,Retirement,201831,Exited
+1756,Operations,IC4,2023-09-09,,,108379,Active
+1678,Finance,IC2,2025-12-28,,,88074,Active
+1258,Engineering,IC4,2023-11-13,2024-08-01,Voluntary,183620,Exited
+1336,Sales,IC1,2022-03-10,,,65596,Active
+1016,Engineering,IC4,2026-01-27,,,173080,Active
+1695,Finance,IC2,2021-11-07,,,84322,Active
+1325,Engineering,IC4,2021-07-06,2023-04-01,Voluntary,174181,Exited
+1837,Operations,IC3,2020-10-13,2023-05-01,Voluntary,83809,Exited
+1223,Engineering,IC2,2024-06-19,,,120445,Active
+1180,Engineering,IC3,2022-12-22,,,136019,Active
+1100,Engineering,IC3,2024-06-08,,,155562,Active
+1522,Sales,IC3,2023-07-11,2024-03-01,Voluntary,120472,Exited
+1023,Engineering,IC2,2023-01-22,,,127533,Active
+1357,Sales,IC5,2023-07-17,,,152871,Active
+1738,Operations,IC5,2022-10-06,,,123424,Active
+1952,Customer Success,IC2,2020-03-21,2022-12-01,Retirement,58247,Exited
+2017,Data,IC2,2025-10-12,,,111472,Active
+1341,Sales,Manager,2024-02-25,,,158131,Active
+1432,Sales,IC3,2022-02-28,,,113011,Active
+2044,Data,IC3,2022-04-18,2024-05-01,Voluntary,135932,Exited
+1977,Data,IC1,2023-01-25,,,88781,Active
+1204,Engineering,IC4,2025-12-07,,,167202,Active
+1697,Finance,IC3,2022-04-14,,,99418,Active
+1094,Engineering,IC3,2021-09-03,,,140095,Active
+1617,Product,IC3,2021-03-03,2023-10-01,Voluntary,130046,Exited
+1069,Engineering,IC4,2025-04-17,,,179523,Active
+1715,Finance,IC3,2022-10-02,2024-12-01,Involuntary,98316,Exited
+1285,Engineering,IC4,2021-08-19,2024-02-01,Voluntary,182351,Exited
+1887,Customer Success,IC2,2024-10-03,,,57738,Active
+1435,Sales,IC3,2022-02-15,,,117517,Active
+1154,Engineering,IC1,2023-09-11,,,96759,Active
+1076,Engineering,IC3,2022-05-02,,,140532,Active
+1808,Operations,IC2,2022-09-28,2023-01-01,Voluntary,66010,Exited
+1581,Product,IC1,2025-08-13,,,93484,Active
+1447,Sales,IC1,2022-07-27,,,78231,Active
+1189,Engineering,IC3,2021-11-30,,,134920,Active
+1272,Engineering,IC2,2021-12-14,2023-08-01,Involuntary,114807,Exited
+1237,Engineering,Manager,2021-07-19,2023-09-01,Voluntary,192974,Exited
+1488,Sales,IC2,2023-04-17,2024-05-01,Voluntary,83884,Exited
+1560,Product,IC3,2021-12-18,,,146327,Active
+1118,Engineering,IC1,2023-12-10,,,99820,Active
+1903,Customer Success,IC1,2021-07-17,,,52596,Active
+1513,Sales,IC4,2023-03-13,2024-04-01,Retirement,138298,Exited
+1924,Customer Success,IC4,2020-04-02,2022-08-01,Retirement,88237,Exited
+1896,Customer Success,IC1,2021-06-04,,,54933,Active
+1127,Engineering,IC5,2022-05-01,,,202563,Active
+1117,Engineering,IC5,2024-07-10,,,225581,Active
+1474,Sales,IC1,2022-07-22,2023-04-01,Voluntary,68631,Exited
+1765,Operations,IC4,2023-06-02,,,104524,Active
+1058,Engineering,IC4,2024-01-06,,,157699,Active
+1604,Product,IC3,2024-10-17,,,131470,Active
+1746,Operations,IC2,2023-06-19,,,70202,Active
+2005,Data,IC3,2025-07-27,,,134071,Active
+1370,Sales,IC4,2023-03-27,,,119715,Active
+1269,Engineering,IC3,2022-03-08,2022-12-01,Involuntary,155093,Exited
+1047,Engineering,IC4,2022-03-02,,,189752,Active
+1350,Sales,IC4,2021-04-24,,,125671,Active
+1196,Engineering,IC1,2023-06-25,,,102486,Active
+1103,Engineering,IC1,2023-03-27,,,96889,Active
+1923,Customer Success,IC2,2025-06-26,,,60417,Active
+1878,Customer Success,IC5,2022-01-17,,,123481,Active
+1763,Operations,IC3,2022-07-01,,,81817,Active
+1814,Operations,IC2,2022-06-18,2024-10-01,Involuntary,72384,Exited
+1264,Engineering,IC1,2023-06-20,2024-01-01,Voluntary,95704,Exited
+1829,Operations,IC2,2023-05-20,2024-07-01,Involuntary,62383,Exited
+1444,Sales,IC2,2021-05-23,,,94835,Active
+1747,Operations,IC4,2023-09-15,,,101215,Active
+1305,Engineering,IC4,2023-02-07,2023-10-01,Retirement,158954,Exited
+1342,Sales,IC4,2024-10-23,,,121607,Active
+1848,Customer Success,IC4,2024-02-16,,,90949,Active
+1314,Engineering,IC3,2019-02-26,2022-02-01,Voluntary,152271,Exited
+1150,Engineering,IC5,2025-09-12,,,222855,Active
+1125,Engineering,IC4,2021-07-26,,,183228,Active
+1868,Customer Success,IC3,2024-09-26,,,75946,Active
+1908,Customer Success,IC2,2021-05-22,,,57814,Active
+1051,Engineering,IC2,2023-07-28,,,112427,Active
+1354,Sales,IC3,2021-12-10,,,120489,Active
+2023,Data,IC1,2025-08-14,,,96102,Active
+1143,Engineering,IC3,2025-09-30,,,136217,Active
+1471,Sales,IC1,2019-08-03,2022-05-01,Involuntary,76983,Exited
+1400,Sales,IC2,2021-08-19,,,86144,Active
+1909,Customer Success,Manager,2022-09-26,,,116118,Active
+1321,Engineering,IC3,2023-11-23,2024-03-01,Involuntary,141029,Exited
+1020,Engineering,IC3,2023-03-29,,,132403,Active
+1893,Customer Success,IC1,2023-09-11,,,48594,Active
+1931,Customer Success,IC2,2020-07-18,2022-06-01,Retirement,69140,Exited
+1911,Customer Success,IC3,2022-02-07,,,74579,Active
+1408,Sales,IC3,2021-07-11,,,107119,Active
+1538,Sales,IC3,2023-12-18,2024-03-01,Voluntary,101954,Exited
+1686,Finance,IC3,2023-09-07,,,103204,Active
+1039,Engineering,IC4,2025-07-27,,,173356,Active
+1176,Engineering,IC3,2023-11-13,,,143329,Active
+1246,Engineering,IC4,2019-11-15,2022-10-01,Retirement,183200,Exited
+1916,Customer Success,IC3,2021-06-25,,,75703,Active
+1928,Customer Success,IC3,2022-06-07,2023-11-01,Voluntary,79102,Exited
+2037,Data,IC4,2021-10-15,,,162533,Active
+1949,Customer Success,IC3,2022-05-15,2022-12-01,Voluntary,84023,Exited
+1155,Engineering,IC1,2022-07-28,,,96851,Active
+1639,HR,IC3,2022-12-18,,,98872,Active
+1288,Engineering,Manager,2022-05-02,2024-02-01,Voluntary,193227,Exited
+1626,HR,IC4,2023-04-02,,,104911,Active
+1668,HR,IC3,2020-07-23,2022-11-01,Involuntary,95001,Exited
+1570,Product,IC2,2021-04-12,,,115922,Active
+1821,Operations,IC2,2023-03-24,2024-01-01,Retirement,67374,Exited
+1018,Engineering,Director,2024-03-04,,,285200,Active
+1128,Engineering,IC4,2023-11-19,,,160783,Active
+1323,Engineering,IC4,2019-05-18,2022-04-01,Voluntary,185149,Exited
+1256,Engineering,IC5,2022-11-05,2023-06-01,Voluntary,227865,Exited
+1941,Customer Success,IC4,2024-05-10,2024-11-01,Voluntary,87405,Exited
+2049,Data,IC2,2019-08-03,2022-04-01,Voluntary,115933,Exited
+1191,Engineering,IC5,2025-01-08,,,211131,Active
+1116,Engineering,IC3,2022-12-07,,,131007,Active
+1884,Customer Success,IC1,2024-04-28,,,52846,Active
+1607,Product,IC1,2021-07-15,2022-06-01,Voluntary,81470,Exited
+1181,Engineering,Director,2022-10-04,,,284417,Active
+1302,Engineering,Manager,2022-10-14,2024-09-01,Involuntary,190130,Exited
+1838,Operations,Manager,2022-02-12,2024-06-01,Involuntary,116044,Exited
+1788,Operations,IC3,2026-02-05,,,92710,Active
+1800,Operations,Manager,2025-02-17,,,125566,Active
+1757,Operations,IC1,2022-07-29,,,50773,Active
+1733,Operations,IC4,2021-04-04,,,109192,Active
+1518,Sales,Manager,2021-09-12,2022-03-01,Voluntary,139567,Exited
+1373,Sales,IC2,2023-05-12,,,87795,Active
+1046,Engineering,IC3,2022-07-04,,,138958,Active
+2002,Data,IC1,2021-11-20,,,84198,Active
+1158,Engineering,IC5,2024-02-29,,,227070,Active
+2003,Data,IC1,2024-10-11,,,97033,Active
+1172,Engineering,IC3,2025-05-06,,,140279,Active
+1017,Engineering,IC3,2025-04-18,,,131826,Active
+1512,Sales,IC4,2020-05-19,2022-09-01,Voluntary,119748,Exited
+1049,Engineering,IC1,2023-03-16,,,86762,Active
+1192,Engineering,IC1,2022-11-21,,,99061,Active
+1929,Customer Success,IC1,2019-07-28,2022-04-01,Voluntary,56609,Exited
+1516,Sales,IC1,2021-01-22,2022-10-01,Voluntary,71726,Exited
+1880,Customer Success,IC4,2023-09-24,,,104638,Active
+1758,Operations,IC5,2023-01-30,,,133937,Active
+1481,Sales,IC3,2020-04-23,2022-09-01,Involuntary,100949,Exited
+1284,Engineering,IC4,2022-01-15,2022-06-01,Voluntary,160718,Exited
+1794,Operations,IC2,2021-04-14,,,70593,Active
+1723,Operations,IC2,2024-08-06,,,70198,Active
+1226,Engineering,IC4,2023-04-03,2024-11-01,Voluntary,186110,Exited
+1027,Engineering,IC2,2024-02-01,,,126460,Active
+1907,Customer Success,IC3,2022-08-29,,,79345,Active
+1438,Sales,IC1,2025-12-05,,,71578,Active
+2038,Data,Manager,2024-06-28,,,177220,Active
+1365,Sales,IC3,2025-03-21,,,105539,Active
+1230,Engineering,IC2,2022-07-31,2023-09-01,Voluntary,104681,Exited
+1038,Engineering,Manager,2023-08-17,,,221980,Active
+1670,Finance,IC3,2022-10-06,,,113969,Active
+2050,Data,IC3,2021-11-22,2022-04-01,Retirement,145549,Exited
+1375,Sales,IC5,2024-10-26,,,145613,Active
+1470,Sales,IC1,2022-03-17,2024-09-01,Retirement,73504,Exited
+2051,Data,IC3,2022-02-26,2024-11-01,Voluntary,150413,Exited
+1688,Finance,IC3,2022-04-24,,,109660,Active
+1940,Customer Success,IC4,2023-03-25,2024-06-01,Retirement,99655,Exited
+2027,Data,IC1,2025-04-25,,,90608,Active
+1803,Operations,IC3,2022-07-02,2024-10-01,Voluntary,77707,Exited
+1195,Engineering,IC2,2025-02-22,,,112326,Active
+1945,Customer Success,IC2,2021-12-06,2023-06-01,Voluntary,62976,Exited
+1955,Customer Success,IC3,2021-03-26,2024-03-01,Retirement,84886,Exited
+1504,Sales,IC4,2022-11-11,2023-09-01,Retirement,122472,Exited
+2052,Data,IC4,2022-12-21,2024-03-01,Retirement,169353,Exited
+1919,Customer Success,IC1,2022-12-11,,,50490,Active
+1580,Product,IC2,2024-03-13,,,116197,Active
+1161,Engineering,IC4,2023-08-18,,,184771,Active
+1681,Finance,IC2,2023-12-04,,,84094,Active
+1983,Data,IC2,2026-02-06,,,114108,Active
+1163,Engineering,IC2,2023-01-13,,,109857,Active
+1706,Finance,IC2,2025-04-19,,,82183,Active
+1775,Operations,IC3,2022-01-18,,,90175,Active
+1153,Engineering,IC1,2022-11-10,,,100201,Active
+1753,Operations,IC2,2021-06-01,,,73411,Active
+1950,Customer Success,IC5,2022-02-20,2023-05-01,Involuntary,123091,Exited
+1834,Operations,IC2,2022-02-14,2022-08-01,Voluntary,65197,Exited
+1112,Engineering,IC4,2022-05-25,,,162250,Active
+1227,Engineering,IC3,2020-09-12,2022-07-01,Voluntary,144467,Exited
+1760,Operations,IC3,2022-03-27,,,86209,Active
+1104,Engineering,IC3,2023-11-04,,,157582,Active
+1422,Sales,IC3,2025-02-08,,,113805,Active
+1420,Sales,IC2,2021-12-12,,,92033,Active
+1828,Operations,IC3,2020-06-11,2023-02-01,Voluntary,78931,Exited
+1587,Product,IC1,2021-07-20,,,85331,Active
+1862,Customer Success,IC3,2025-07-23,,,76176,Active
+1673,Finance,IC1,2024-03-06,,,68474,Active
+1120,Engineering,IC3,2021-09-06,,,149385,Active
+1054,Engineering,IC1,2025-08-08,,,92307,Active
+1152,Engineering,IC2,2022-02-03,,,126739,Active
+1404,Sales,IC4,2023-10-13,,,118841,Active
+2058,Data,IC1,2022-08-09,2023-11-01,Voluntary,97827,Exited
+1208,Engineering,IC5,2023-11-08,,,228026,Active
+1659,HR,IC2,2021-05-08,2022-05-01,Retirement,71658,Exited
+1933,Customer Success,Manager,2019-10-06,2022-04-01,Voluntary,122432,Exited
+1842,Operations,IC5,2019-10-26,2022-01-01,Involuntary,133809,Exited
+1009,Engineering,IC2,2023-10-16,,,119108,Active
+1891,Customer Success,IC5,2025-02-23,,,122577,Active
+1037,Engineering,IC3,2024-03-27,,,134306,Active
+1453,Sales,IC2,2023-11-05,,,93820,Active
+1652,HR,IC2,2022-05-25,,,81928,Active
+1254,Engineering,IC3,2022-05-18,2024-06-01,Involuntary,135246,Exited
+1304,Engineering,IC3,2024-07-06,2024-10-01,Voluntary,145678,Exited
+1824,Operations,IC2,2021-07-11,2024-01-01,Retirement,68716,Exited
+1572,Product,IC3,2025-11-11,,,137162,Active
+1624,Product,IC3,2022-05-08,2023-08-01,Voluntary,148015,Exited
+1783,Operations,IC4,2023-07-21,,,101085,Active
+1917,Customer Success,IC3,2022-06-18,,,85338,Active
+1785,Operations,IC1,2025-02-08,,,58334,Active
+1263,Engineering,IC3,2022-07-17,2023-11-01,Voluntary,133571,Exited
+1611,Product,IC1,2020-08-30,2023-02-01,Voluntary,93699,Exited
+1298,Engineering,IC2,2020-02-02,2022-11-01,Voluntary,121392,Exited
+1415,Sales,IC3,2021-09-03,,,115301,Active
+1151,Engineering,IC4,2024-11-30,,,160319,Active
+1870,Customer Success,IC4,2025-09-19,,,97495,Active
+1641,HR,IC4,2022-02-12,,,115905,Active
+1981,Data,IC2,2024-01-26,,,103532,Active
+1551,Product,IC2,2024-07-05,,,107097,Active
+1873,Customer Success,IC4,2025-09-09,,,94294,Active
+1489,Sales,IC3,2020-11-07,2023-01-01,Retirement,103824,Exited
+1711,Finance,IC5,2020-05-15,2022-07-01,Voluntary,143219,Exited
+1148,Engineering,IC3,2025-11-20,,,158825,Active
+1147,Engineering,IC2,2021-07-12,,,118559,Active
+1797,Operations,IC2,2023-08-02,,,72115,Active
+1346,Sales,IC4,2025-09-28,,,132334,Active
+1817,Operations,IC1,2023-05-07,2024-08-01,Involuntary,55941,Exited
+1975,Data,IC2,2025-08-20,,,120726,Active
+1660,HR,IC2,2021-02-04,2022-03-01,Voluntary,69350,Exited
+1771,Operations,IC3,2025-07-22,,,80390,Active
+1349,Sales,IC2,2021-03-28,,,93410,Active
+1464,Sales,IC4,2020-05-03,2022-12-01,Involuntary,131123,Exited
+1326,Engineering,IC3,2023-07-09,2024-06-01,Retirement,134050,Exited
+1187,Engineering,IC2,2023-06-14,,,119825,Active
+1124,Engineering,IC3,2022-06-11,,,151915,Active
+1944,Customer Success,IC5,2023-02-08,2023-06-01,Voluntary,125893,Exited
+1609,Product,IC4,2019-03-16,2022-01-01,Voluntary,164011,Exited
+1144,Engineering,IC2,2023-06-30,,,106752,Active
+1752,Operations,IC3,2021-06-12,,,91088,Active
+2064,Data,IC2,2023-07-06,2024-09-01,Retirement,111089,Exited
+1198,Engineering,IC3,2025-04-13,,,147917,Active
+1610,Product,IC3,2023-05-31,2024-08-01,Voluntary,135180,Exited
+1280,Engineering,IC2,2022-02-25,2023-07-01,Voluntary,123543,Exited
+1294,Engineering,IC2,2022-01-10,2022-10-01,Voluntary,125425,Exited
+1920,Customer Success,IC3,2023-09-22,,,80604,Active
+1401,Sales,IC4,2023-07-07,,,142091,Active
+1123,Engineering,Director,2021-04-04,,,289408,Active
+1184,Engineering,Manager,2022-07-02,,,208479,Active
+1203,Engineering,IC3,2023-02-23,,,151421,Active
+1439,Sales,IC1,2022-02-25,,,65770,Active
+1247,Engineering,IC3,2021-06-08,2022-08-01,Involuntary,156568,Exited
+1416,Sales,IC1,2025-04-28,,,71985,Active
+1913,Customer Success,IC4,2025-01-30,,,87714,Active
+1845,Customer Success,IC2,2022-08-06,,,69406,Active
+1999,Data,IC4,2022-01-24,,,172492,Active
+1849,Customer Success,IC5,2021-10-10,,,123773,Active
+1979,Data,IC2,2022-04-22,,,115609,Active
+1130,Engineering,IC2,2023-08-16,,,113591,Active
+1638,HR,IC3,2022-03-13,,,87249,Active
+1403,Sales,IC2,2023-06-06,,,91844,Active
+1866,Customer Success,IC2,2024-11-03,,,65218,Active
+1852,Customer Success,IC2,2023-10-16,,,62957,Active
+1736,Operations,IC2,2023-03-22,,,65468,Active
+2006,Data,IC1,2022-07-18,,,81900,Active
+1220,Engineering,IC1,2024-11-18,,,97926,Active
+1642,HR,IC2,2025-01-01,,,77484,Active
+2008,Data,IC1,2023-07-28,,,91733,Active
+1890,Customer Success,Director,2024-07-13,,,143326,Active
+1889,Customer Success,IC1,2024-12-02,,,50560,Active
+2013,Data,IC3,2024-06-20,,,129864,Active
+1625,Product,IC3,2022-12-26,2023-07-01,Voluntary,126872,Exited
+1927,Customer Success,IC4,2020-02-29,2022-05-01,Voluntary,96600,Exited
+2016,Data,Director,2025-08-09,,,270400,Active
+1387,Sales,IC1,2022-04-16,,,66352,Active
+2054,Data,IC5,2022-05-03,2023-05-01,Voluntary,197784,Exited
+1807,Operations,IC3,2022-06-25,2022-10-01,Voluntary,80235,Exited
+1510,Sales,IC3,2020-02-24,2022-02-01,Retirement,108147,Exited
+1268,Engineering,IC3,2021-06-21,2023-01-01,Voluntary,135952,Exited
+1904,Customer Success,IC1,2024-07-08,,,51653,Active
+1442,Sales,IC3,2024-10-21,,,105363,Active
+1497,Sales,IC5,2021-05-09,2022-08-01,Voluntary,162156,Exited
+1830,Operations,IC4,2023-01-20,2024-01-01,Involuntary,95372,Exited
+1113,Engineering,IC1,2022-05-14,,,97503,Active
+1692,Finance,IC3,2024-05-21,,,101749,Active
+1233,Engineering,IC2,2020-08-04,2022-04-01,Voluntary,107862,Exited
+1960,Customer Success,IC3,2021-10-17,2023-03-01,Retirement,75848,Exited
+1608,Product,IC4,2021-08-19,2023-05-01,Voluntary,150897,Exited
+1672,Finance,IC4,2023-03-24,,,119957,Active
+1374,Sales,IC1,2022-06-11,,,77357,Active
+1827,Operations,IC2,2021-09-29,2022-08-01,Voluntary,73808,Exited
+1664,HR,IC4,2021-10-10,2023-05-01,Retirement,114489,Exited
+2012,Data,IC3,2022-08-27,,,132728,Active
+1234,Engineering,IC2,2023-02-27,2024-11-01,Retirement,121506,Exited
+1819,Operations,IC4,2022-02-13,2023-07-01,Voluntary,101848,Exited
+1867,Customer Success,IC2,2021-12-06,,,63344,Active
+1677,Finance,IC2,2021-11-12,,,84252,Active
+1318,Engineering,IC4,2021-12-14,2023-09-01,Voluntary,176700,Exited
+1649,HR,IC3,2024-06-10,,,101456,Active
+1411,Sales,IC4,2025-11-05,,,129694,Active
+1990,Data,IC2,2023-08-16,,,101352,Active
+1710,Finance,IC4,2020-06-16,2022-01-01,Voluntary,130971,Exited
+1359,Sales,IC1,2023-02-27,,,78118,Active
+1259,Engineering,IC2,2022-05-18,2024-01-01,Voluntary,121873,Exited
+1745,Operations,IC2,2023-08-30,,,70104,Active
+1628,HR,Director,2021-07-01,,,164886,Active
+1633,HR,IC2,2025-07-25,,,75742,Active
+1283,Engineering,IC2,2020-06-12,2022-06-01,Voluntary,108424,Exited
+1377,Sales,IC1,2025-08-28,,,77372,Active
+1385,Sales,IC3,2021-07-05,,,100560,Active
+1225,Engineering,IC2,2021-12-04,2024-05-01,Voluntary,109522,Exited
+2042,Data,IC1,2022-08-13,2024-12-01,Voluntary,88075,Exited
+2025,Data,IC3,2025-07-22,,,149798,Active
+1473,Sales,Manager,2019-07-10,2022-03-01,Voluntary,139540,Exited
+1348,Sales,IC3,2024-11-15,,,115703,Active
+1506,Sales,Manager,2020-09-27,2023-08-01,Voluntary,146884,Exited
+1640,HR,IC2,2024-10-25,,,78675,Active
+2061,Data,IC1,2023-10-31,2024-06-01,Involuntary,96203,Exited
+1798,Operations,IC2,2024-11-10,,,64140,Active
+2024,Data,IC4,2025-10-30,,,161533,Active
+1998,Data,IC4,2023-06-29,,,153944,Active
+1620,Product,IC4,2021-11-06,2022-12-01,Voluntary,147479,Exited
+1946,Customer Success,IC1,2019-08-24,2022-06-01,Voluntary,52865,Exited
+1886,Customer Success,IC4,2025-10-03,,,94288,Active
+1646,HR,IC4,2025-05-10,,,118106,Active
+1936,Customer Success,IC2,2021-10-17,2022-03-01,Voluntary,70276,Exited
+1557,Product,IC4,2024-06-15,,,148890,Active
+1682,Finance,IC2,2023-11-12,,,80952,Active
+1578,Product,IC2,2021-10-20,,,110026,Active
+1796,Operations,IC4,2022-09-28,,,99458,Active
+1086,Engineering,IC3,2023-05-20,,,142477,Active
+1243,Engineering,IC1,2023-05-03,2024-07-01,Voluntary,94411,Exited
+1699,Finance,IC3,2022-01-05,,,110331,Active
+1965,Customer Success,IC4,2023-07-20,2024-07-01,Voluntary,96135,Exited
+1160,Engineering,IC2,2023-03-02,,,123484,Active
+1525,Sales,IC2,2020-08-18,2022-07-01,Voluntary,90577,Exited
+1036,Engineering,IC4,2025-08-03,,,185998,Active
+1541,Sales,IC2,2023-08-08,2024-09-01,Voluntary,87041,Exited
+1171,Engineering,Director,2021-11-16,,,255024,Active
+1655,HR,IC3,2025-02-06,,,97152,Active
+1982,Data,IC1,2025-09-09,,,95261,Active
+1948,Customer Success,IC1,2023-03-25,2024-03-01,Voluntary,47443,Exited
+1937,Customer Success,IC4,2020-07-20,2022-09-01,Retirement,99610,Exited
+1485,Sales,IC1,2022-03-16,2023-04-01,Voluntary,76391,Exited
+1734,Operations,IC3,2021-06-18,,,79160,Active
+1900,Customer Success,IC3,2025-01-09,,,77747,Active
+1096,Engineering,IC3,2023-06-22,,,147548,Active
+1564,Product,IC3,2025-05-20,,,131142,Active
+1241,Engineering,IC4,2023-07-22,2023-11-01,Retirement,158050,Exited
+1743,Operations,IC4,2023-06-04,,,96390,Active
+1864,Customer Success,IC2,2023-09-02,,,62368,Active
+1575,Product,IC5,2024-11-13,,,191871,Active
+1691,Finance,IC4,2024-04-27,,,126376,Active
+1461,Sales,IC1,2025-05-27,,,72830,Active
+1892,Customer Success,IC1,2025-11-02,,,53650,Active
+1554,Product,IC4,2022-11-26,,,158014,Active
+1858,Customer Success,IC2,2025-04-16,,,69931,Active
+1969,Customer Success,IC1,2021-07-01,2022-07-01,Involuntary,47835,Exited
+1207,Engineering,Manager,2025-06-10,,,206051,Active
+1393,Sales,IC1,2025-03-14,,,69195,Active
+1795,Operations,IC2,2022-09-04,,,72936,Active
+1871,Customer Success,IC4,2024-11-11,,,100935,Active
+1398,Sales,IC5,2024-01-01,,,159294,Active
+1767,Operations,IC3,2022-10-05,,,86077,Active
+1938,Customer Success,IC3,2023-08-04,2023-11-01,Involuntary,75562,Exited
+1218,Engineering,IC1,2024-01-02,,,99542,Active
+1005,Engineering,IC2,2025-11-28,,,125481,Active
+1769,Operations,IC3,2025-01-31,,,93341,Active
+1643,HR,IC2,2025-05-28,,,70179,Active
+1989,Data,IC1,2022-11-26,,,98104,Active
+1613,Product,IC4,2023-07-31,2024-09-01,Retirement,172274,Exited
+1739,Operations,IC3,2022-11-04,,,86439,Active
+1547,Product,IC4,2022-05-12,,,175215,Active
+1726,Operations,IC3,2025-04-10,,,83743,Active
+2010,Data,IC3,2022-03-18,,,128381,Active
+1684,Finance,IC2,2025-06-02,,,84362,Active
+1099,Engineering,IC3,2021-10-22,,,154980,Active
+1805,Operations,IC2,2020-05-27,2022-03-01,Involuntary,63202,Exited
+1728,Operations,IC4,2022-05-11,,,107273,Active
+1574,Product,IC2,2025-03-28,,,116512,Active
+1407,Sales,IC2,2021-06-27,,,90909,Active
+1503,Sales,IC3,2022-04-10,2024-03-01,Voluntary,107528,Exited
+1048,Engineering,IC1,2023-02-02,,,93882,Active
+1033,Engineering,IC4,2024-10-14,,,176183,Active
+1930,Customer Success,IC3,2021-05-03,2023-03-01,Voluntary,78940,Exited
+1780,Operations,IC3,2022-10-31,,,93062,Active
+1840,Operations,IC2,2021-04-11,2022-10-01,Involuntary,70312,Exited
+1201,Engineering,IC3,2024-04-11,,,142018,Active
+1135,Engineering,IC3,2022-02-05,,,158092,Active
+1028,Engineering,IC1,2025-04-21,,,98609,Active
+1971,Data,IC2,2022-11-01,,,115406,Active
+1231,Engineering,IC1,2020-06-11,2023-05-01,Voluntary,85628,Exited
+1490,Sales,IC2,2021-08-04,2024-08-01,Voluntary,91868,Exited
+1773,Operations,IC2,2022-06-20,,,68376,Active
+1379,Sales,IC2,2024-09-03,,,82202,Active
+1289,Engineering,IC5,2021-07-30,2023-09-01,Involuntary,197050,Exited
+1419,Sales,Manager,2022-12-25,,,163487,Active
+1675,Finance,IC4,2023-12-08,,,130665,Active
+1392,Sales,IC1,2025-01-10,,,76266,Active
+1593,Product,IC5,2023-01-09,,,208200,Active
+1499,Sales,IC1,2022-12-17,2023-07-01,Retirement,69501,Exited
+1139,Engineering,IC3,2024-10-08,,,146433,Active
+1063,Engineering,IC3,2026-01-27,,,147826,Active
+1472,Sales,IC3,2021-10-09,2023-04-01,Voluntary,119380,Exited
+1648,HR,IC2,2021-07-20,,,75243,Active
+1129,Engineering,IC3,2023-02-25,,,140023,Active
+2056,Data,IC1,2022-02-23,2022-12-01,Voluntary,90578,Exited
+1521,Sales,IC4,2021-10-24,2023-04-01,Voluntary,130809,Exited
+1839,Operations,IC4,2020-08-09,2023-05-01,Voluntary,107363,Exited
+2047,Data,IC2,2021-04-17,2022-07-01,Retirement,111494,Exited
+1065,Engineering,IC2,2023-06-16,,,114575,Active
+1813,Operations,IC2,2021-08-29,2023-11-01,Voluntary,61242,Exited
+1015,Engineering,IC2,2023-08-15,,,120829,Active
+1157,Engineering,IC3,2021-08-06,,,135568,Active
+1041,Engineering,IC3,2023-07-08,,,137040,Active
+1493,Sales,IC3,2020-09-18,2023-01-01,Voluntary,110443,Exited
+1380,Sales,IC3,2021-07-01,,,112017,Active
+1188,Engineering,IC3,2022-07-26,,,141593,Active
+1764,Operations,IC2,2022-03-12,,,61414,Active
+1217,Engineering,IC3,2025-05-07,,,141079,Active
+1922,Customer Success,IC2,2022-10-23,,,68189,Active
+1792,Operations,IC4,2023-06-08,,,93157,Active
+1053,Engineering,IC3,2024-07-09,,,156093,Active
+1879,Customer Success,IC4,2025-04-30,,,96603,Active
+1338,Sales,IC4,2023-02-15,,,123849,Active
+1749,Operations,IC2,2024-01-11,,,67079,Active
+1720,Operations,IC3,2024-07-24,,,77668,Active
+1725,Operations,IC4,2022-03-18,,,102987,Active
+1296,Engineering,IC3,2022-12-20,2023-09-01,Voluntary,146797,Exited
+1702,Finance,IC3,2023-08-03,,,112781,Active
+1252,Engineering,IC2,2020-08-09,2023-05-01,Voluntary,105414,Exited
+1727,Operations,IC4,2023-12-04,,,107135,Active
+1462,Sales,IC2,2025-06-17,,,87269,Active
+1456,Sales,IC3,2025-05-21,,,107839,Active
+1271,Engineering,IC4,2020-05-05,2022-06-01,Voluntary,185900,Exited
+1816,Operations,IC4,2020-09-22,2023-03-01,Voluntary,109388,Exited
+1863,Customer Success,Director,2024-11-15,,,153246,Active
+1270,Engineering,IC1,2021-10-24,2023-08-01,Retirement,98953,Exited
+2039,Data,Manager,2021-04-02,2022-04-01,Voluntary,214627,Exited
+1202,Engineering,IC4,2022-09-27,,,169845,Active
+1162,Engineering,IC3,2025-06-21,,,143601,Active
+1556,Product,IC4,2021-10-11,,,151563,Active
+1730,Operations,IC3,2023-09-07,,,87762,Active
+1402,Sales,IC4,2022-09-03,,,134848,Active
+1703,Finance,IC1,2024-08-07,,,74325,Active
+1477,Sales,IC4,2020-10-01,2022-07-01,Involuntary,126577,Exited
+1822,Operations,IC1,2020-06-27,2023-05-01,Voluntary,51895,Exited
+1772,Operations,IC5,2023-05-31,,,120270,Active
+1106,Engineering,IC1,2022-09-27,,,103422,Active
+1566,Product,IC2,2025-10-27,,,111383,Active
+1390,Sales,IC3,2021-06-11,,,109434,Active
+1002,Engineering,IC4,2025-10-08,,,163184,Active
+2032,Data,IC3,2023-07-22,,,145300,Active
+2059,Data,IC4,2023-07-15,2023-10-01,Voluntary,152553,Exited
+1562,Product,IC3,2024-05-30,,,132096,Active
+1932,Customer Success,IC5,2020-06-14,2022-11-01,Retirement,117378,Exited
+1081,Engineering,IC2,2022-08-28,,,118142,Active
+1206,Engineering,IC4,2021-03-24,,,168644,Active
+1035,Engineering,IC2,2024-09-16,,,106515,Active
+1943,Customer Success,Manager,2020-09-20,2023-05-01,Retirement,107623,Exited
+1776,Operations,Manager,2025-05-06,,,119095,Active
+1509,Sales,IC2,2022-04-07,2023-01-01,Voluntary,80121,Exited
+1428,Sales,IC4,2024-04-10,,,136973,Active
+1455,Sales,Director,2023-10-06,,,194391,Active
+2053,Data,IC3,2021-07-22,2023-04-01,Voluntary,134297,Exited
+1367,Sales,IC5,2021-08-02,,,171534,Active
+1092,Engineering,IC3,2023-08-14,,,142003,Active
+1340,Sales,IC4,2023-10-10,,,140083,Active
+1898,Customer Success,IC1,2025-05-16,,,52245,Active
+1565,Product,Director,2024-03-27,,,250668,Active
+1777,Operations,IC3,2021-10-11,,,87971,Active
+1242,Engineering,IC4,2022-11-09,2024-11-01,Retirement,184514,Exited
+1014,Engineering,IC2,2022-06-11,,,122283,Active
+1316,Engineering,IC3,2021-04-30,2022-05-01,Retirement,133208,Exited
+1601,Product,IC3,2021-10-18,,,131266,Active
+1388,Sales,IC3,2021-08-18,,,108910,Active
+1167,Engineering,IC3,2022-08-20,,,147739,Active
+1841,Operations,IC1,2023-02-11,2024-06-01,Voluntary,56645,Exited
+1021,Engineering,IC2,2023-07-17,,,115736,Active
+1647,HR,IC3,2023-04-24,,,92826,Active
+1832,Operations,IC1,2022-01-19,2023-08-01,Voluntary,59345,Exited
+1563,Product,IC1,2022-05-07,,,79987,Active
+2041,Data,IC1,2021-05-27,2024-02-01,Involuntary,92538,Exited
+1687,Finance,IC3,2021-06-23,,,97867,Active
+1958,Customer Success,IC2,2022-09-16,2024-05-01,Voluntary,67876,Exited
+1190,Engineering,IC4,2025-04-03,,,183347,Active
+1976,Data,IC3,2022-06-19,,,145110,Active
+1700,Finance,IC3,2025-08-27,,,109125,Active
+1511,Sales,IC4,2021-11-20,2023-10-01,Retirement,131268,Exited
+1475,Sales,IC2,2024-02-06,2024-06-01,Voluntary,92101,Exited
+1857,Customer Success,IC3,2025-08-25,,,77606,Active
+1748,Operations,IC2,2025-03-15,,,62402,Active
+1253,Engineering,IC3,2022-08-02,2023-02-01,Voluntary,133255,Exited
+1022,Engineering,IC2,2022-01-04,,,104423,Active
+1460,Sales,IC3,2021-07-11,,,110946,Active
+1277,Engineering,IC3,2023-04-24,2023-12-01,Voluntary,146759,Exited
+1956,Customer Success,IC3,2022-03-30,2024-12-01,Voluntary,83742,Exited
+1386,Sales,IC1,2025-06-01,,,64918,Active
+1806,Operations,IC3,2022-05-16,2022-11-01,Voluntary,81232,Exited
+1344,Sales,IC5,2023-06-26,,,150797,Active
+1770,Operations,IC4,2024-07-25,,,105592,Active
+1131,Engineering,IC3,2022-03-10,,,146406,Active
+1872,Customer Success,IC4,2025-11-05,,,95277,Active
+1088,Engineering,IC3,2023-02-06,,,145429,Active
+1331,Sales,IC2,2021-12-31,,,84418,Active
+1467,Sales,IC3,2020-07-02,2023-05-01,Voluntary,110248,Exited
+1122,Engineering,IC1,2021-06-19,,,103244,Active
+2045,Data,IC1,2023-01-29,2023-11-01,Involuntary,97975,Exited
+1861,Customer Success,IC2,2021-06-04,,,59420,Active
