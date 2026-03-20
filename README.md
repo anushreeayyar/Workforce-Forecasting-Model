@@ -13,81 +13,60 @@ An interactive workforce planning tool built with **Streamlit + Plotly** that an
 | 1 | How many people do we need to hire next quarter? | TA teams plan recruiter capacity and budget ahead of time |
 | 2 | What happens if attrition spikes? | Stress-test your workforce plan before it becomes a crisis |
 | 3 | Where are our future capability gaps? | L&D plans training before the gap hits, not after |
-| 4 | Can we afford our growth plan? | HR + Finance align on a number before headcount goes to the board |
+| 4 | Can we afford our growth plan? | HR + Finance align before headcount goes to the board |
 | 5 | What's the right hiring velocity to hit our targets? | TA teams don't miss targets because the math wasn't done upfront |
-
----
-
-## 🚀 Quick Start
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/workforce-forecasting-model.git
-cd workforce-forecasting-model
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Generate the synthetic dataset
-```bash
-python generate_synthetic_data.py
-```
-This creates three CSV files in `/data`:
-- `headcount_snapshots.csv` — 36 months of monthly headcount by department
-- `employee_data.csv` — individual employee records (synthetic, anonymized)
-- `ta_funnel.csv` — monthly recruiting pipeline by department
-
-### 4. Launch the app
-```bash
-streamlit run app.py
-```
 
 ---
 
 ## 📊 Dashboard Overview
 
-The app has five interactive tabs:
+The app has five interactive tabs, each tied to one of the core questions above:
 
-**📈 Headcount Forecast**
-- 12-month headcount projection with 80% and 95% confidence intervals
-- Monte Carlo simulation (500 runs) for uncertainty quantification
-- Historical trend + target overlay
+**📈 Headcount Forecast** — 12-month projection with 80% and 95% Monte Carlo confidence bands, historical trend overlay, and target tracking.
 
-**🎛️ Scenario Analysis**
-- Adjust attrition rate (5–35%), growth target (0–50%), and offer acceptance rate (40–95%) via sliders
-- Live update: "At 20% attrition and 15% growth, Engineering needs X hires by Q3"
-- Side-by-side comparison of 4 stress-test scenarios (Optimistic / Your Scenario / Moderate Stress / High Stress)
+**🎛️ Scenario Analysis** — Adjust attrition rate, growth target, and offer acceptance rate via live sliders. Outputs a narrative: *"At 20% attrition and 15% growth, Engineering needs 23 additional hires by Q3."* Side-by-side comparison of four stress-test scenarios.
 
-**🏢 Gap Analysis**
-- Heatmap of projected headcount gaps across all 8 departments
-- Severity classification: Critical / Moderate / On Track
-- Radar chart of headcount utilization
+**🏢 Gap Analysis** — Projected headcount gaps across all departments with Critical / Moderate / On Track severity ratings and a radar chart of headcount utilization by Business Unit.
 
-**💰 Cost Projection**
-- Stacked monthly cost (salary + benefits + recruiting) with cumulative spend line
-- Cross-department cost comparison table
-- Adjusts dynamically to scenario sliders
+**💰 Cost Projection** — Stacked monthly cost breakdown (salary + benefits + recruiting) with cumulative spend line and cross-department comparison table.
 
-**🎯 Hiring Velocity**
-- Exact offers-per-week calculation needed to hit hiring targets
-- Sensitivity chart: how acceptance rate affects required offer volume
-- Historical TA funnel visualization + time-to-fill trend
+**🎯 Hiring Velocity** — Exact offers-per-week calculation to hit hiring targets, sensitivity analysis on offer acceptance rate, and historical TA funnel visualization.
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| `pandas` / `numpy` | Data engineering & forecasting |
+| `streamlit` | Interactive dashboard |
+| `plotly` | Charts & visualisations |
+| `numpy` (OLS) | Linear regression — no sklearn needed |
+| Monte Carlo | Confidence interval simulation (500 paths) |
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/anushreeayyar/Workforce-Forecasting-Model.git
+cd Workforce-Forecasting-Model
+pip install -r requirements.txt
+python generate_synthetic_data.py
+streamlit run app.py
+```
 
 ---
 
 ## 🗂️ Project Structure
 
 ```
-workforce-forecasting-model/
-├── app.py                        # Streamlit dashboard (main entry point)
-├── forecasting_model.py          # Core forecasting logic (no sklearn needed)
-├── generate_synthetic_data.py    # Synthetic HR data generator
+Workforce-Forecasting-Model/
+├── app.py                        # Streamlit dashboard
+├── forecasting_model.py          # Core forecasting logic
+├── generate_synthetic_data.py    # HR data generator
 ├── requirements.txt
 ├── .gitignore
-├── README.md
 └── data/
     ├── headcount_snapshots.csv   # Monthly headcount by dept (288 rows)
     ├── employee_data.csv         # Employee records (1,065 rows)
@@ -98,52 +77,43 @@ workforce-forecasting-model/
 
 ## 🧠 Methodology
 
-### Forecasting
-- **Trend extrapolation**: OLS linear regression on historical headcount (pure NumPy, no sklearn)
-- **Confidence intervals**: Monte Carlo simulation (500 paths) with residual-based noise + horizon drift
-- **Seasonality**: Monthly hiring factors derived from typical enterprise hiring patterns (Q1/Q3 peaks)
+**Forecasting** — OLS linear regression on historical headcount with Monte Carlo simulation (500 paths) for confidence intervals. Seasonality factors applied for Q1/Q3 hiring peaks.
 
-### Scenario Modeling
-- Month-by-month simulation of headcount evolution
-- Attrition applied monthly (`annual_rate / 12 × current_headcount`)
-- Growth modeled as a linear ramp toward the target
+**Scenario Modeling** — Month-by-month simulation of headcount under custom attrition and growth targets.
 
-### Hiring Velocity
-- `offers_needed = hires_needed / offer_accept_rate`
-- Pipeline size accounts for time-to-fill days
+**Hiring Velocity** — `offers_needed = hires_needed / offer_accept_rate`, with pipeline sizing based on time-to-fill.
 
-### Cost Model
-- `Total cost = salary × 1.25 (benefits) + new_hires × salary × 0.15 (recruiting)`
+**Cost Model** — `Total cost = salary × 1.25 (benefits) + new_hires × salary × 0.15 (recruiting)`
 
 ---
 
-## 📁 Dataset Description
+## 🔧 Filters & Controls
 
-All data is **synthetically generated** using statistically realistic patterns:
-
-| Dataset | Rows | Key Fields |
-|---------|------|-----------|
-| headcount_snapshots | 288 | month, department, headcount_actual, headcount_target, new_hires, attritions, open_reqs |
-| employee_data | ~1,065 | employee_id, department, level, hire_date, exit_date, exit_reason, annual_salary |
-| ta_funnel | 288 | month, department, roles_open, applications, interviews, offers_made, offers_accepted, time_to_fill_days |
-
-Departments: Engineering, Sales, Product, HR, Finance, Operations, Customer Success, Data
+- **Business Unit** — Technology / Commercial / Corporate / All
+- **Job Level** — All Levels / Individual Contributor / Manager / Director & VP
+- **EMT Only** — toggle to view Director-level workforce planning
+- **Scenario sliders** — attrition rate, growth target, offer acceptance rate, forecast horizon
 
 ---
 
-## 🔧 Extending This Project
+## 🗺️ Roadmap
 
-- **Plug in real data**: Replace `/data/*.csv` with your actual (anonymized) exports from Workday, BambooHR, Greenhouse, etc.
-- **Add ML forecasting**: Swap `_LinearRegression` in `forecasting_model.py` with Prophet or ARIMA for time-series-aware forecasting
-- **Add skills taxonomy**: Extend `employee_data.csv` with skills/role columns to power capability gap analysis
-- **Connect to ATS**: Use Greenhouse or Lever APIs to pull live TA funnel data
-
----
-
-## 📝 Note on Data
-
-This project uses **100% synthetic data** generated by `generate_synthetic_data.py`. It demonstrates the same methodology applied to real workforce planning — no proprietary data is included.
+- [ ] Live HRIS integration (Workday / BambooHR API)
+- [ ] Skills taxonomy layer for capability gap analysis
+- [ ] Prophet / ARIMA time-series forecasting
+- [ ] Streamlit Cloud deployment
+- [ ] Automated monthly headcount report (PDF export)
 
 ---
 
-*Built to demonstrate enterprise-grade workforce planning methodology. Methodology mirrors scenario-based forecasting frameworks used in large-scale HR organizations.*
+## 👤 Author
+
+Built by **Anushree Ayyar** — HR Tech / People Analytics portfolio project.
+
+Connect on [LinkedIn](https://linkedin.com/in/anushreeayyar) · [GitHub](https://github.com/anushreeayyar)
+
+---
+
+## 📄 Licence
+
+MIT — free to use, modify, and distribute.
