@@ -2,7 +2,7 @@
 
 An interactive workforce planning tool built with **Streamlit + Plotly** that answers the five core questions every CHRO, CFO, and VP of People needs answered:
 
-> *"How many people will we need, in which teams, and when — and what happens if our attrition or hiring plans change?"*
+> *"How many people will we need, in which teams, and when and what happens if our attrition or hiring plans change?"*
 
 ---
 
